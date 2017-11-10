@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>My first blog</td>
     <td>Date</td>
-    <td>08/11/17</td>
+    <td>10/11/17</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes, after quite a while</td>
   </tr>
 </table>
 
@@ -39,15 +39,15 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>My computer wouldn't work</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I asked the teacher to fix my computer</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I tried to fix the computer by myself</td>
   </tr>
   <tr>
     <td>Reflecting</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have fixed the computer by myself and finished everything</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I have to be able to go through the whole lesson without asking for help</td>
     <td></td>
   </tr>
 </table>
