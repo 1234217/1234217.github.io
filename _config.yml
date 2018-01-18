@@ -14,9 +14,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 # Flags below are optional
 #
-# body{
-#    background-image: "/images/9Zk2kcY.jpg)"
-#   }
+ body{
+    background-image: "/images/9Zk2kcY.jpg)"
+   }
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
