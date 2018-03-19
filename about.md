@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-body {
+
 		<table id="customers">
   <tr>
     <th>random names</th>
