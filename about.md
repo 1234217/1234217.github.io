@@ -65,7 +65,7 @@ permalink: /about/
 
 I really like dogs and my favourite hobby is being amazing.
 
-my name is max and i have a sister called millie.
+my name is max and i have a sister who has a pet hampster.
 
 
 
