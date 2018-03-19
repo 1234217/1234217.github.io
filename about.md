@@ -61,15 +61,11 @@ permalink: /about/
     <td>France</td>
   </tr>
 </table>
-    background-image: url("http://static1.businessinsider.com/image/51b8b71769bedd004f000013/scientists-shred-study-that-says-genetically-modified-food-makes-pigs-sick.jpg");
-  color: #ff0000;
+    
 }
-Some information about you!
+I really like dogs and my favourite hobby is being amazing.
 
-### More Information
+my name is max and i have a sister called millie.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
