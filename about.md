@@ -61,7 +61,7 @@ permalink: /about/
     <td>France</td>
   </tr>
 </table>  
-}
+
 
 I really like dogs and my favourite hobby is being amazing.
 
