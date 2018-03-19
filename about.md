@@ -60,9 +60,9 @@ permalink: /about/
     <td>cycling</td>
     <td>France</td>
   </tr>
-</table>
-    
+</table>  
 }
+
 I really like dogs and my favourite hobby is being amazing.
 
 my name is max and i have a sister called millie.
